@@ -7,18 +7,33 @@
 
 ## Course Description
 
-Knowing how to design letterform systems is a unique and specialized skill. It requires keen eyes that are attuned to see the finest of details, yet also know how to predict how those small features will function when they are seen repeatedly throughout a typographical system. In this course, students will learn the nuts and bolts of designing a working typeface. They will start out with calligraphy exercises to help understand the modular nature of typefaces, then apply that knowledge as a foundation for an original digital typeface. 
+Typeface design is a unique and important skill that profoundly affects visible language. The drawing of letterforms intersects with the history of graphic design and technology and affects every aspect of design practice from branding and editorial design to motion and interaction design. This course gives students an overview of the historic context of type design and an introduction to current methods from calligraphy to parametric type. Students will apply their knowledge to design an original typeface.
 
-### Learning Outcomes:
-By the successful completion of this course, students will have:
+###Course Outline
 
-- Have knowledge of historical overview of letterforms
-- Understand the modular nature of latin letterform systems
-- Articulate and analyze letters and compositions
-- Knowledge of how to plot proper bezier vector points
-- Designing a working digital typeface (minimum ASCII set)
-- Fluency in industry standard software (Glyphs)
-- Know resources to seek inspiration & self-improvement (online & in NYC)
+**The Stroke (Weeks 1–2)**
+
+Students will be introduced to the history of letterforms and understand the relationship between technology and the written form. Students will learn the basics of calligraphy to complement their theoretical knowledge with practical experience as well as study historical models. Focus will be given to conceptual ideas such as modularity and how the tools influence the form (such as the axis).
+
+**The Letter (Weeks 3–5)**
+
+Students will be introduced to font-making software and related concepts such as vectors, bezier curves, and multiple masters. Students will practice drawing select letters by digitizing historical scripts or sketches. Focus will be given to conceptual ideas such as spacing, counters, design axis, and variable fonts in the browser.
+
+**The Alphabet (Weeks 6–15)**
+
+Students will propose and develop a full typeface (ASCII set). Focus will be given to creating a visual system of letterforms, with the consideration of the performability of the typeface in different print and technological settings. There will be an emphasis on spatial concepts such as spacing, where students will learn that designing the negative space is just as important as designing the positive outlines. Toward the end of the unit, students will develop a typeface specimen to showcase their typeface.
+
+### Learning Outcomes
+*By the end of the semester, students will be able to:*
+
+* Understand a historical overview of letterforms		
+* Understand the modular nature of letterform systems		
+* Understand how type design intersects with the multidisciplinary nature of communication design		
+* Articulate and analyze letters and compositions		
+* Understand how to plot proper bezier vector points		
+* Designing a working digital typeface and supporting specimen display materials.		
+* Achieve fluency in industry standard software		
+* Know resources to seek inspiration & self-improvement	
 
 ### Required Supplies:
 - Pencil and sharpener
