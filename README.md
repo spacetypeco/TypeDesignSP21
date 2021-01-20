@@ -50,25 +50,9 @@ Students will propose and develop a full typeface (ASCII set). Focus will be giv
 Subject to adjustment.
 
 
-|Week|Class Content|Assignment|Reading
+|Week|Live Content|Asynchronous Content | Assignment
 |----|-------------|----------|-------
-|1|**Intro:** Overview of syllabus, class policy, Q&A <br> **Lecture:** Introduction & Review <br> **Exercise:** Rapid Ideation Exercise | <li>Email Document Page link </li><li> Get supplies & required reading book </li><li> Download class license & Install Glyphs 2 </li> | <li>*Theory of Type Design*: Chapters 1–4 </li><li> *Counterpunch* Excerpt</li>
-|2|**Discussion:** Reading <br> **Exercise:** Carolingian calligraphy<br> **Lecture:** Letterform Digitization <br> **Demo: Overview of Glyphs App** <br> <li>Basics of plotting vector points </li><li>Uploading Sketches</li><li>Font Info Window</li><li>Export Font File</li>| <li>Upload Carolingian calligraphy practice image </li><li>Digitize test word ‘grandiose’ in Glyphs & upload PDF </li>| <li>*Theory of Type Design*: Chapters 5–8 </li>
-|3|**Discussion:** Reading <br> **Lecture:** Letterform Adjustments <br> **Demo: Glyphs App Efficiency** <br> <li> Plotting Vectors Q&A </li><li>Layers</li><li>Components</li><li>Using spacing strings</li>| <li>Redraw ‘grandiose’ letters from last week + ‘t’ and space glyph </li><li> Complete Week 3 template PDF (feel free to customize) </li>| <li>*Theory of Type Design*: Chapters 9–13 </li>
-|4|**Discussion:** Reading <br> **Review:** Digitized test words **Lecture:** Typefaces for Today <br> **Exercise:** <li>Broad Edge Nib vs Pointed Nib </li> <li> Sketching a test word using Translation/Expansion model Technique & TypeCooker recipes| <li>3 Typeface Proposal Drafts (that includes pencil or digital sketches of test words, at least ‘aeon’). </li> <li> Proposal Base Template</li> | <li>*Theory of Type Design*: Chapters 14–17 </li>
-|5|**Review:** Typeface Proposal Draft <br> **Lecture:** Historical Overview of Letterforms & Inspirational Resources in NYC <br> **Exercise:** Preview of Proofs & concept of spacing | <li> Finish typeface proposal w/ test word 'adhesion' </li> | <li>*Theory of Type Design*: Chapters 18–21 </li>
-|6|**Final Typeface Proposal** Guest Critique with [Juan Villanueva](http://www.juankafka.com/) | <li>Complete Week 6 Proof</li> | <li>*Theory of Type Design*: Chapters 22–24 </li>
-|7|**Discussion:** Reading <br> **Review:** Typeface Proof | <li>Complete Week 7 Proof </li>
-|8|***Class will be held online due to COVID-19*** <br> **Review:** Typeface Proof <br> **Lecture:** Typeface Specimens | <li> Complete Week 8 Proof </li><li> Start thinking about type specimen </li>
-|N/A| Spring Break
-|9|***Study Week due to COVID-19*** <br> **Individual Office Hours** | ***Study Week due to COVID-19*** <li> Continue with refining Week 8 Proof & ideation of type specimen </li> | <li>[History of the Latin Alphabet Part 1](https://youtu.be/acYR3Hpk-Oo)</li> <li>[History of the Latin Alphabet Part 2](https://youtu.be/_9_DMBTb-vk)</li>
-|10| **Review:** Typeface Proof | <li>Complete Week 10 Proof </li> | <li>[History of the Latin Alphabet Part 3](https://youtu.be/4YcT3C6a3QA)</li> <li>[History of the Latin Alphabet Part 4](https://youtu.be/4DFAFV9SRZM)</li>
-|11| **Review:** Typeface Proof | <li>Complete Week 11 Proof </li> | <li>[History of the Latin Alphabet Part 5](https://youtu.be/JKUYsu_B_xI)</li> <li>[History of the Latin Alphabet Part 6](https://youtu.be/2l4ZyFLgHmg)</li>
-|12| **Review:** Typeface Proof <br> **Glyphs Demo:** Using lists in Glyphs  | <li> Complete Week 12 Proof </li> <li> Making smart list for required character set</li><li>[.txt list and Glyphs File](/Assignments/Assets) </li></li><li>Sketch for Type Specimen </li> |
-|13| **Review:** Typeface Proof <br> **Review:** Type Specimen Sketches | <li> Complete Week 13 Proof </li> <li>Typeface Specimen Draft</li>
-|14| **Guest Critique** with [Juan Villanueva](http://www.juankafka.com/) <br> | <li>Final Presentations </li> <Final Specimen>
-|15| **Final Presentation** Typeface Proof | <li> Submit final presentations </li><li> Submit images for [class gallery website](https://letterformdesign.com/) </li>
-
+|1|**Intro:** Overview of syllabus, class policy, [Past Student Gallery](https://letterformdesign.com/type-design), Q&A <br> **Student Introductions** Introduction & Review <br> **Exercise:** Rapid Ideation Exercise | <li> Email Document Page link </li><li> Get supplies </li><li> Download class license & Install Glyphs App </li> | <li>[Watch Lecture modules for Week 1](https://docs.google.com/spreadsheets/d/1xbvIXMLAyL_hNBzdzVfbSoJ0NEWtLwwLXyP8r4oLXCs/edit?usp=sharing) </li><li> *Counterpunch* Excerpt</li>
 
 ## Resources 
 
