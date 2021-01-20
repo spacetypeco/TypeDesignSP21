@@ -9,7 +9,7 @@
 
 Typeface design is a unique and important skill that profoundly affects visible language. The drawing of letterforms intersects with the history of graphic design and technology and affects every aspect of design practice from branding and editorial design to motion and interaction design. This course gives students an overview of the historic context of type design and an introduction to current methods from calligraphy to parametric type. Students will apply their knowledge to design an original typeface.
 
-###Course Outline
+### Course Outline
 
 **The Stroke (Weeks 1–2)**
 
