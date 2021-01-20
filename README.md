@@ -52,7 +52,7 @@ Subject to adjustment.
 
 |Week|Live Content|Asynchronous Content | Assignment
 |----|-------------|----------|-------
-|1|**Intro:** Overview of syllabus, class policy, [Past Student Gallery](https://letterformdesign.com/type-design), Q&A <br> **Student Introductions** Introduction & Review <br> **Exercise:** Rapid Ideation Exercise | <li> Email Document Page link </li><li> Get supplies </li><li> Download class license & Install Glyphs App </li> | <li>[Watch Lecture modules for Week 1](https://docs.google.com/spreadsheets/d/1xbvIXMLAyL_hNBzdzVfbSoJ0NEWtLwwLXyP8r4oLXCs/edit?usp=sharing) </li><li> *Counterpunch* Excerpt</li>
+|1|**Intro:** Overview of syllabus, class policy, [Past Student Gallery](https://letterformdesign.com/type-design), Q&A <br> **Student Introductions** Introduction & Review | <li>[Watch Lecture modules for Week 1](https://docs.google.com/spreadsheets/d/1xbvIXMLAyL_hNBzdzVfbSoJ0NEWtLwwLXyP8r4oLXCs/edit?usp=sharing) </li><li> Read *Counterpunch* Excerpt<li> Get supplies |  Download class license & Install Glyphs App </li>
 
 
 Evaluation and Final Grade Calculation
