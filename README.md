@@ -53,7 +53,6 @@ Subject to adjustment.
 |Week|Live Content|Asynchronous Content | Assignment
 |----|------------|---------------------|-------
 |1|**Intro:** Overview of syllabus, class policy, [Past Student Gallery](https://letterformdesign.com/type-design), Student Introductions | <li>[Watch Lecture modules for Week 1](https://docs.google.com/spreadsheets/d/1xbvIXMLAyL_hNBzdzVfbSoJ0NEWtLwwLXyP8r4oLXCs/edit?usp=sharing) </li><li> [Read *Counterpunch* Excerpt](readings/Counterpunch_Excerpt.pdf)</li><li> Get supplies (list via email) |  Download class license & Install Glyphs App </li>
-|2|**Intro:** Overview of syllabus, class policy, [Past Student Gallery](https://letterformdesign.com/type-design), Q&A <br> **Student Introductions** Introduction & Review | <li>[Watch Lecture modules for Week 1](https://docs.google.com/spreadsheets/d/1xbvIXMLAyL_hNBzdzVfbSoJ0NEWtLwwLXyP8r4oLXCs/edit?usp=sharing) </li><li> [Read *Counterpunch* Excerpt](readings/Counterpunch_Excerpt.pdf)<li> Get supplies (list to come via email) |  Download class license & Install Glyphs App </li>
 
 
 ## Resources 
