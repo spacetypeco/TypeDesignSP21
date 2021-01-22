@@ -52,8 +52,21 @@ Subject to adjustment.
 
 |Week|Live Content|Asynchronous Content | Assignment
 |----|------------|---------------------|-------
-|1|**Intro:** Overview of syllabus, class policy, [Past Student Gallery](https://letterformdesign.com/type-design), Student Introductions | <li>[Watch Lecture modules for Week 1](https://docs.google.com/spreadsheets/d/1xbvIXMLAyL_hNBzdzVfbSoJ0NEWtLwwLXyP8r4oLXCs/edit?usp=sharing) </li><li> [Read *Counterpunch* Excerpt](readings/Counterpunch_Excerpt.pdf)</li><li> Get supplies (list via email) |  Download class license & Install Glyphs App </li>
-
+|1|<li>Overview of syllabus </li> <li> [Past Student Gallery](https://letterformdesign.com/type-design)</li>  <li>Student Introductions </li>| <li>[Watch Lecture modules for Week 1](https://docs.google.com/spreadsheets/d/1xbvIXMLAyL_hNBzdzVfbSoJ0NEWtLwwLXyP8r4oLXCs/edit?usp=sharing) </li><li> [Read *Counterpunch* Excerpt](readings/Counterpunch_Excerpt.pdf)</li>|  <li>Get class supplies </li> <li>Download license</li> <li> Install Glyphs App </li>
+|2| <li>Discussion: Reading </li> <li> Demo: Carolingian Calligraphy </li>| <li>[Watch Lecture modules for Week 2](https://docs.google.com/spreadsheets/d/1xbvIXMLAyL_hNBzdzVfbSoJ0NEWtLwwLXyP8r4oLXCs/edit?usp=sharing) </li><li> Read *Theory of Type Design* Chapters TBD |  <li>A page of calligraphy practice</li><li>creating a test word based on Carolingian</li>
+|3| <li> In-class Bezier Curve Exercises </li><li> Interpolating Masters in Glyphs </li><li> Technical Q & A </li>| <li>[Watch Lecture modules for Week 3](https://docs.google.com/spreadsheets/d/1xbvIXMLAyL_hNBzdzVfbSoJ0NEWtLwwLXyP8r4oLXCs/edit?usp=sharing) </li><li> Read *Theory of Type Design* Chapters TBD |  <li>Digitize test word in Glyphs</li><li>Digitize test letter in two masters & make them compatible</li>
+|4| <li> Discussion: Reading </li><li> Demo: Testing out your variable font on the browser </li><li> Sketching a test word using Translation/Expansion model Technique & TypeCooker recipes </li>| <li>[Watch Lecture modules for Week 4](https://docs.google.com/spreadsheets/d/1xbvIXMLAyL_hNBzdzVfbSoJ0NEWtLwwLXyP8r4oLXCs/edit?usp=sharing) </li><li> Read *Theory of Type Design* Chapters TBD |  <li>3 Typeface Proposal Drafts (that includes pencil or digital sketches of test words)</li>
+|5| <li>Small Group Crit Session: Propose 3 Proposals and get feedback </li> | <li>[Watch Lecture modules for Week 5](https://docs.google.com/spreadsheets/d/1xbvIXMLAyL_hNBzdzVfbSoJ0NEWtLwwLXyP8r4oLXCs/edit?usp=sharing) </li><li> Read *Theory of Type Design* Chapters TBD |  <li>Finish Typeface Proposal with digitized test word</li>
+|6| <li> All Class Crit Session: Final Typeface Proposals</li> | <li>[Watch Lecture modules for Week 6](https://docs.google.com/spreadsheets/d/1xbvIXMLAyL_hNBzdzVfbSoJ0NEWtLwwLXyP8r4oLXCs/edit?usp=sharing) </li><li> Read *Theory of Type Design* Chapters TBD |  <li>Complete Proof Template</li>
+|7| <li> 1:1 Office Hours Crit Session</li> | <li>[Watch Lecture modules for Week 7](https://docs.google.com/spreadsheets/d/1xbvIXMLAyL_hNBzdzVfbSoJ0NEWtLwwLXyP8r4oLXCs/edit?usp=sharing) </li><li> Read *Theory of Type Design* Chapters TBD |  <li>Complete Proof Template</li>
+|8| <li> Small Group Crit Session: Typeface Project</li> | <li>[Watch Lecture modules for Week 8](https://docs.google.com/spreadsheets/d/1xbvIXMLAyL_hNBzdzVfbSoJ0NEWtLwwLXyP8r4oLXCs/edit?usp=sharing) </li><li> Read *Theory of Type Design* Chapters TBD |  <li>Complete Proof Template</li>
+|9| Spring Break | Spring Break | Spring Break |  
+|10| <li> All Class Crit Session: Typeface Project</li> | <li>[Watch Lecture modules for Week 10](https://docs.google.com/spreadsheets/d/1xbvIXMLAyL_hNBzdzVfbSoJ0NEWtLwwLXyP8r4oLXCs/edit?usp=sharing) </li> |  <li>Complete Proof Template</li><li>Sketch out 3 type specimen ideas</li>
+|11| <li> All Class Crit Session: Typeface Project</li> | <li>[Watch Lecture modules for Week 11](https://docs.google.com/spreadsheets/d/1xbvIXMLAyL_hNBzdzVfbSoJ0NEWtLwwLXyP8r4oLXCs/edit?usp=sharing) </li> |  <li>Complete Proof Template</li>
+|12| <li> All Class Crit Session: Typeface Project</li> |  |  <li>Complete Proof Template</li><li> Progress on 1 type specimen idea</li>
+|13| <li> All Class Crit Session: Typeface Project</li> |  |  <li>Complete Proof Template</li>
+|14| <li> Guest Critique & Feedback </li> |  |  <li>Complete Proof Template</li><li>Complete Type Specimen</li>
+|9| All-class Final Presentation |   |  | 
 
 ## Resources 
 
@@ -125,37 +138,41 @@ Subject to adjustment.
 * [Selling Fonts on MyFonts](https://foundrysupport.monotype.com/hc/en-us)
 * [Listing Fonts on GoogleFonts](https://github.com/google/fonts/blob/master/CONTRIBUTING.md)
 
-## Class & CD Department Policies
+------
+
+## Policies
 
 
 **Evaluation and Final Grade Calculation**
 
 * Active Participation / Attendance 20%
-* Weekly Assignments (11 total) 35% 
+* Weekly Assignments 35% 
 * Typeface Proposal 10%
 * Typeface Specimen 10%
 * Final Typeface 25%
 * Total: 100%
 
+-------
+
 **Resources**
 
 The university provides many resources to help students achieve academic and artistic excellence. These resources include:
 
-The University (and associated) Libraries
+[The University (and associated) Libraries](https://library.newschool.edu/)
 
-The University Learning Center
+[The University Learning Center](https://www.newschool.edu/university-learning-center/)
 
-University Disabilities Service
+[University Disabilities Service](https://www.newschool.edu/student-disability-services/)
 
 In keeping with the university’s policy of providing equal access for students with disabilities, any student with a disability who needs academic accommodations is welcome to meet with me privately. All conversations will be kept confidential. Students requesting any accommodations will also need to contact Student Disability Service (SDS). SDS will conduct an intake and, if appropriate, the Director will provide an academic accommodation notification letter for you to bring to me. At that point, I will review the letter with you and discuss these accommodations in relation to this course.
 
-Making Center
+**Making Center**
 
 The Making Center is a constellation of shops, labs, and open workspaces that are situated across the New School to help students express their ideas in a variety of materials and methods.  We have resources to help support woodworking, metalworking, ceramics and pottery work, photography and film, textiles, printmaking, 3D printing, manual and CNC machining, and more. A staff of technicians and student workers provide expertise and maintain the different shops and labs.  Safety is a primary concern, so each area has policies for access, training, and etiquette with which students and faculty should be familiar.  Many areas require specific orientations or trainings before access is granted.  Detailed information about the resources available, as well as schedules, trainings, and policies can be found at resources.parsons.edu. 
 
-Grading Standards
+**Grading Standards**
 
-Undergraduate
+**Undergraduate**
 
 A student’s final grades and GPA are calculated using a 4.0 scale.
 
@@ -209,44 +226,42 @@ F  [0.0]
 Failure, no credit
 
 
-Grade of W
+**Grade of W**
 
 The grade of W may be issued by the Office of the Registrar to a student who officially withdraws from a course within the applicable deadline. There is no academic penalty, but the grade will appear on the student transcript.
 
+**Grade of Z**
 
-Grade of Z
+This grade is to be assigned to students who have **never attended or stopped attending** classes.  Exceptions can be made if the student has completed enough work to warrant a grade (including a failing grade), and arrangements have been made with the instructor(s) and the Dean’s Office prior to grade submission.  The Z grade does not calculate into the student’s GPA.  
 
-This grade is to be assigned to students who have never attended or stopped attending classes.  Exceptions can be made if the student has completed enough work to warrant a grade (including a failing grade), and arrangements have been made with the instructor(s) and the Dean’s Office prior to grade submission.  The Z grade does not calculate into the student’s GPA.  
-
-Grades of Incomplete 
+**Grades of Incomplete**
 
 The grade of I, or temporary incomplete, may be granted to a student under unusual and extenuating circumstances, such as when the student’s academic life is interrupted by a medical or personal emergency. This mark is not given automatically but only upon the student’s request and at the discretion of the instructor. A Request for Incomplete form must be completed and signed by the student and instructor. The time allowed for completion of the work and removal of the “I” mark will be set by the instructor with the following limitations: 
 
 
-Undergraduate students: Work must be completed no later than the seventh week of the following fall semester for spring or summer term incompletes and no later than the seventh week of the following spring semester for fall term incompletes. Grades of “I” not revised in the prescribed time will be recorded as a final grade of “F” by the Registrar’s Office. 
+**Undergraduate students:** Work must be completed no later than the seventh week of the following fall semester for spring or summer term incompletes and no later than the seventh week of the following spring semester for fall term incompletes. Grades of “I” not revised in the prescribed time will be recorded as a final grade of “F” by the Registrar’s Office. 
 
 
 
-
-College, School, Program and Class Policies
+**College, School, Program and Class Policies**
 
 You should include the following headings with the recommended text. Any policy specific to your class must also be clearly written in the syllabus. For example, many instructors create their own policies to cover a variety of classroom situations, such as late assignments, rewrites and extra credit; the use of cellphones, laptops, and other technology in the classroom; your expectations should you be delayed, or makeup exams/absence on exam days. 
 
-A comprehensive overview of policy may be found under Policies: A to Z. Students are also encouraged to consult the Academic Catalog for Parsons. 
+A comprehensive overview of policy may be found under [Policies: A to Z](https://www.newschool.edu/about/university-resources/policies/). Students are also encouraged to consult [the Academic Catalog for Parsons](https://www.newschool.edu/provost/academic-catalogs/). 
 
-Canvas
+**Canvas**
 
 Use of Canvas may be an important resource for this class. Students should check it for announcements before coming to class each week.
  
-Electronic Devices 
+**Electronic Devices **
 
 The use of electronic devices (phones, tablets, laptops, cameras, etc.) is permitted when the device is being used in relation to the course's work. All other uses are prohibited in the classroom and devices should be turned off before class starts.
 
-Responsibility 
+**Responsibility **
 
 Students are responsible for all assignments, even if they are absent. Late assignments, failure to complete the assignments for class discussion and/or critique, and lack of preparedness for in-class discussions, presentations and/or critiques will jeopardize your successful completion of this course.  
 
-Active Participation and Attendance
+**Active Participation and Attendance**
 
 Class participation is an essential part of class and includes: keeping up with reading, assignments, projects, contributing meaningfully to class discussions, active participation in group work, and coming to class regularly and on time.  
 
@@ -256,25 +271,25 @@ While attendance is just one aspect of active participation, absence from a sign
 
 I will assess each student’s performance against all of the assessment criteria in determining your final grade.
 
-Academic Honesty and Integrity
+**Academic Honesty and Integrity**
 
 Compromising your academic integrity may lead to serious consequences, including (but not limited to) one or more of the following: failure of the assignment, failure of the course, academic warning, disciplinary probation, suspension from the university, or dismissal from the university.
 
-Students are responsible for understanding the University’s policy on academic honesty and integrity and must make use of proper citations of sources for writing papers, creating, presenting, and performing their work, taking examinations, and doing research. It is the responsibility of students to learn the procedures specific to their discipline for correctly and appropriately differentiating their own work from that of others. The full text of the policy, including adjudication procedures, is found on the university website under Policies: A to Z. Resources regarding what plagiarism is and how to avoid it can be found on the Learning Center’s website.
+Students are responsible for understanding the University’s policy on academic honesty and integrity and must make use of proper citations of sources for writing papers, creating, presenting, and performing their work, taking examinations, and doing research. It is the responsibility of students to learn the procedures specific to their discipline for correctly and appropriately differentiating their own work from that of others. The full text of the policy, including adjudication procedures, is found on the university website under [Policies: A to Z](https://www.newschool.edu/about/university-resources/policies/). Resources regarding what plagiarism is and how to avoid it can be found on the [Learning Center’s website](https://www.newschool.edu/learning-center/resources-workshops/).
 
 The New School views “academic honesty and integrity” as the duty of every member of an academic community to claim authorship for his or her own work and only for that work, and to recognize the contributions of others accurately and completely. This obligation is fundamental to the integrity of intellectual debate, and creative and academic pursuits. Academic honesty and integrity includes accurate use of quotations, as well as appropriate and explicit citation of sources in instances of paraphrasing and describing ideas, or reporting on research findings or any aspect of the work of others (including that of faculty members and other students). Academic dishonesty results from infractions of this “accurate use”. The standards of academic honesty and integrity, and citation of sources, apply to all forms of academic work, including submissions of drafts of final papers or projects. All members of the University community are expected to conduct themselves in accord with the standards of academic honesty and integrity. Please see the complete policy in the Parsons Catalog.
 
-Intellectual Property Rights
+**Intellectual Property Rights**
 
-The New School (the "university") seeks to encourage creativity and invention among its faculty members and students. In doing so, the University affirms its traditional commitment to the personal ownership by its faculty members and students of Intellectual Property Rights in works they create. The complete policy governing Intellectual Property Rights may be seen on the university website, on the Provost’s page.
-
-
+The New School (the "university") seeks to encourage creativity and invention among its faculty members and students. In doing so, the University affirms its traditional commitment to the personal ownership by its faculty members and students of Intellectual Property Rights in works they create. The complete policy governing Intellectual Property Rights may be seen on the [university website, on the Provost’s page](https://www.newschool.edu/provost/accreditation-policies/).
 
 
+-------
 
-CD Department Policy
 
-A. Communication Design Zero Tolerance Attendance Policy
+**CD Department Policy**
+
+**A. Communication Design Zero Tolerance Attendance Policy**
 
 In order to foster a studio learning environment where we all learn from peers and through dialogue, timely and regular attendance is a strict expectation for all Communication Design students. Students who are not present in class are unable to meet the learning outcomes of a Communication Design course.
 
@@ -283,12 +298,12 @@ For classes meeting once a week, students are allowed 2 absences. For classes me
 A student is deemed tardy if a student fails to arrive within 15 minutes past the beginning of class. 2 tardies will result in an automatic absence. A student who arrives an hour past the beginning of class will be deemed absent.
 
 
-B. No Late Work and Missed Critiques
+**B. No Late Work and Missed Critiques**
 
 Work that is submitted past the assignment due date will result in an automatic failure for the assignment. For work presented in critique, absence at the critique will result in an automatic failure for the assignment. 
 
 
-C. CD App
+**C. CD App**
 
 Information about upcoming CD Lectures, events from AIGA NY/TDC, the CD Library, and the CD Paper Store can be found on the CD App.
 
