@@ -154,6 +154,8 @@ Subject to adjustment.
 
 -------
 
+### [**CD Common Policies**](https://docs.google.com/document/d/1u358io8doX_SVVMGqIM_oH5V0OIccneYu4Ww-uE55QM/edit)
+
 **Resources**
 
 The university provides many resources to help students achieve academic and artistic excellence. These resources include:
@@ -253,11 +255,11 @@ A comprehensive overview of policy may be found under [Policies: A to Z](https:/
 
 Use of Canvas may be an important resource for this class. Students should check it for announcements before coming to class each week.
  
-**Electronic Devices **
+**Electronic Devices**
 
 The use of electronic devices (phones, tablets, laptops, cameras, etc.) is permitted when the device is being used in relation to the course's work. All other uses are prohibited in the classroom and devices should be turned off before class starts.
 
-**Responsibility **
+**Responsibility**
 
 Students are responsible for all assignments, even if they are absent. Late assignments, failure to complete the assignments for class discussion and/or critique, and lack of preparedness for in-class discussions, presentations and/or critiques will jeopardize your successful completion of this course.  
 
