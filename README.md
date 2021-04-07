@@ -62,10 +62,10 @@ Subject to adjustment.
 |8| 1:1 Office Hours Crit Session | Reading: <li>[About Designing Display Types](https://contrastfoundry.com/projects/more-than-meets-the-eye)</li><li>[About Spacing](https://ohnotype.co/blog/spacing)</li><li>[About Proofs](https://ohnotype.co/blog/proof-it)</li><li>[About drawing vectors](https://ohnotype.co/blog/drawing-vectors)</li>  |  <li>Complete Proof Template</li>
 |9| Spring Break | Spring Break | Spring Break |  
 |10| <li> All Class Crit Session: Typeface Project</li> |  |  <li>Complete Proof Template</li>
-|11| <li> All Class Crit Session: Typeface Project</li> | |  <li>Complete Proof Template</li><li>Sketch out type specimen idea</li>
+|11| <li> All Class Crit Session: Typeface Project</li> | |  <li>Complete Proof Template</li><li>Start type specimen assignment</li>
 |12| <li> All Class Crit Session: Typeface Project</li> |  |  <li>Complete Proof Template</li><li> Progress on type specimen idea</li>
-|13| <li> All Class Crit Session: Typeface Project</li> |  |  <li>Complete Proof Template</li><li> Progress on type specimen idea</li>
-|14| <li> Guest Critique & Feedback </li> |  |  <li>Complete Proof Template</li><li>Complete Type Specimen</li>
+|13| <li> All Class Crit Session: Typeface Project</li> |  |  <li>Complete Proof Template</li><li> Complete type specimen layout</li> 
+|14| <li> Guest Critique & Feedback </li> |  |  <li>Complete Proof Template</li><li>Update Type Specimen</li>
 |15| All-class Final Presentation |   |  | 
 
 ## Resources 
@@ -91,7 +91,11 @@ Subject to adjustment.
 
 ### Type Specimen Inspirations
 
+* [Letterform Archive Type Specimens](https://oa.letterformarchive.org/search?dims=Format&vals0=Type%20Specimen&friendly0=Type%20Specimen)
 * [Pre-Digital Type Foundry Catalogs](https://www.notion.so/99eeab1902c04755b4be9d3c5838f94e?v=c4a2a09d539e4cf685f50bc02725d36e) by Stephen Coles
+* [Parsons Type Design 2020](https://letterformdesign.com/type-design)
+* [Yale School of Art, Type Design](http://typedesign.yaleschoolofart.org/)
+* [Type Media 2018](https://www.typemedia2018.com/)
 
 ### Inspirational Finds
 * [Fonts In Use](https://fontsinuse.com/)
