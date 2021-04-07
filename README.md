@@ -61,12 +61,12 @@ Subject to adjustment.
 |7| 1:1 Office Hours Crit Session | |  <li>Complete Proof Template</li>
 |8| 1:1 Office Hours Crit Session | Reading: <li>[About Designing Display Types](https://contrastfoundry.com/projects/more-than-meets-the-eye)</li><li>[About Spacing](https://ohnotype.co/blog/spacing)</li><li>[About Proofs](https://ohnotype.co/blog/proof-it)</li><li>[About drawing vectors](https://ohnotype.co/blog/drawing-vectors)</li>  |  <li>Complete Proof Template</li>
 |9| Spring Break | Spring Break | Spring Break |  
-|10| <li> All Class Crit Session: Typeface Project</li> |  |  <li>Complete Proof Template</li><li>Sketch out 3 type specimen ideas</li>
-|11| <li> All Class Crit Session: Typeface Project</li> | |  <li>Complete Proof Template</li>
-|12| <li> All Class Crit Session: Typeface Project</li> |  |  <li>Complete Proof Template</li><li> Progress on 1 type specimen idea</li>
-|13| <li> All Class Crit Session: Typeface Project</li> |  |  <li>Complete Proof Template</li>
+|10| <li> All Class Crit Session: Typeface Project</li> |  |  <li>Complete Proof Template</li>
+|11| <li> All Class Crit Session: Typeface Project</li> | |  <li>Complete Proof Template</li><li>Sketch out type specimen idea</li>
+|12| <li> All Class Crit Session: Typeface Project</li> |  |  <li>Complete Proof Template</li><li> Progress on type specimen idea</li>
+|13| <li> All Class Crit Session: Typeface Project</li> |  |  <li>Complete Proof Template</li><li> Progress on type specimen idea</li>
 |14| <li> Guest Critique & Feedback </li> |  |  <li>Complete Proof Template</li><li>Complete Type Specimen</li>
-|9| All-class Final Presentation |   |  | 
+|15| All-class Final Presentation |   |  | 
 
 ## Resources 
 
