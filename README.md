@@ -62,10 +62,10 @@ Subject to adjustment.
 |8| 1:1 Office Hours Crit Session | Reading: <li>[About Designing Display Types](https://contrastfoundry.com/projects/more-than-meets-the-eye)</li><li>[About Spacing](https://ohnotype.co/blog/spacing)</li><li>[About Proofs](https://ohnotype.co/blog/proof-it)</li><li>[About drawing vectors](https://ohnotype.co/blog/drawing-vectors)</li>  |  <li>Complete Proof Template</li>
 |9| Spring Break | Spring Break | Spring Break |  
 |10| <li> All Class Crit Session: Typeface Project</li> |  |  <li>Complete Proof Template</li>
-|11| <li> All Class Crit Session: Typeface Project</li> | |  <li>Complete Proof Template</li><li>Start type specimen assignment</li>
-|12| <li> All Class Crit Session: Typeface Project</li> |  |  <li>Complete Proof Template</li><li> Progress on type specimen idea</li>
-|13| <li> All Class Crit Session: Typeface Project</li> |  |  <li>Complete Proof Template</li><li> Complete type specimen layout</li> 
-|14| <li> Guest Critique & Feedback </li> |  |  <li>Complete Proof Template</li><li>Update Type Specimen</li>
+|11| <li> All Class Crit Session: Typeface Project</li> | |  <li>Complete Proof Template</li>
+|12| <li> All Class Crit Session: Typeface Project</li> |  |  <li>Complete Proof Template</li><li> 50% progress on type specimen (at least Intro page & character set page) </li>
+|13| <li> All Class Crit Session: Typeface Project</li> |  |  <li>Complete Proof Template</li><li> 75% progress on type specimen (minimum intro page, character set page, in-use sample(s) page)</li> 
+|14| <li> Special guest: Sabrina Nacmias and Maxime Gau from [Faire Type](https://fairetype.com/) </li> |  |  <li>Complete Proof Template</li><li>Update Type Specimen</li>
 |15| All-class Final Presentation |   |  | 
 
 ## Resources 
